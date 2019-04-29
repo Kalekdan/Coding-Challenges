@@ -6,3 +6,4 @@ Good sources for coding challenges are
 
 *  [Geeks for Geeks competitive programming](https://www.geeksforgeeks.org/category/competitive-programming/)
 *  [Code dailies twitter account](https://twitter.com/CodeDailies)
+*  [Reddit - /r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer)
