@@ -27,7 +27,7 @@ class DiceRoller {
 		}
 
 		Random r = new Random();
-		for (int i = 0; i <= noRolls; i++){
+		for (int i = 1; i <= noRolls; i++){
 			result += r.nextInt(diceSides) + 1;
 		}
 		return result;
