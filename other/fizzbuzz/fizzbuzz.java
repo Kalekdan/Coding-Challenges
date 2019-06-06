@@ -5,7 +5,7 @@ public class fizzbuzz {
 	
 	private static void fizzbuzzToVal(int val){
 		String outStr;
-		for (int i = 0; i <= val; i++){
+		for (int i = 1; i <= val; i++){
 			outStr = "";
 			if (i % 3 == 0){
 				outStr += "Fizz";
